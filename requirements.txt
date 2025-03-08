@@ -1,0 +1,4 @@
+pyzbar  # Library for decoding QR codes
+pyqrcode  # Library for generating QR codes
+Pillow  # PIL (Pillow) for image handling
+pypng  # PNG support for QR code generation
